@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+
+.tekst h1 {
+    font-weight:normal;
+    padding-bottom: 5px;
+}
+
+.tekst a {
+    text-decoration: none;
+}
+
+.tekst {
+
+    font-size: 17px;
+    width: 100%;
+    max-width: 768px;
+    margin: auto;
+}
+
+
+
+.tekst #iznad {
+ 
+    
+    font-size: 23px;
+    margin-bottom: 0px;
+    
+}
