@@ -4,17 +4,21 @@
 .tekst h1 {
     font-weight:normal;
     font-size:23px;
-    padding-bottom: 5px;
+   
     
 }
 
-.tekst a {
-    text-decoration: none;
+.tekst h2 {
+    font-weight:normal;
+    font-size:21px;
+   
+    
 }
+
 
 .tekst {
 
-    font-size: 18px;
+    font-size: 17px;
     width: 100%;
     max-width: 768px;
     margin: auto;
